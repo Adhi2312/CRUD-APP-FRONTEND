@@ -23,7 +23,7 @@ function App() {
         <Route path='/delete' element={<DeleteUser/>}/>
         <Route path='/create' element={<CreateUser/>}/>
       </Routes>
-      {/* <ReadUsers/> */}
+      
     </div>
   );
 }
